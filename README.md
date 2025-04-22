@@ -1,5 +1,4 @@
 ## ✈️ Predictive Maintenance for Jet Engines (NASA C-MAPSS)
-**📅 Duration:** Apr 2024 – Jun 2024  
 **📍 Institution:** UTA  
 
 A deep learning-based system to forecast Remaining Useful Life (RUL) of aircraft engines using time-series data.
